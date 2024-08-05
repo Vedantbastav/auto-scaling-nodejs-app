@@ -1,0 +1,14 @@
+{
+  "name": "auto-scaling-nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js demo application for auto-scaling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vedantbastav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
